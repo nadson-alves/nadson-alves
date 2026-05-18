@@ -47,7 +47,7 @@ Olá👋, Sou Nadson Alves
 
 <!-- SOBRE -->
 <h2 align="center">
-💀 Sobre Mim
+🚀 Sobre Mim
 </h2>
 
 <p align="center">
