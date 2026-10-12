@@ -1,6 +1,9 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=000000&section=header" />
+  <img src="./Cinematic Developer Workspace with Code and Ambition.png"
+    alt= "Banner de Desenvolvimento"
+    width= "100%"
+    />
 </p>
 
 <!-- NOME -->
@@ -23,25 +26,22 @@
 
 ---
 
-<!-- REDES -->
+<!-- REDES SOCIAIS -->
+<h2 align="center">🌐 Conecte-se comigo</h2>
+
 <p align="center">
-
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://github.com/nadson-alves" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-
-  <a href="SEU_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/nadson-alves-3332a2285/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://github.com/nadson-alves">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.instagram.com/nadsonalvs/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:nadsonalves002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
-
 </p>
 
 ---
